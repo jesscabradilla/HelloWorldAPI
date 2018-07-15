@@ -109,7 +109,7 @@ let handlers = {};
 // Hello handler
 handlers.hello = function(data, callback){
     // Callback a status code 200, and a response in JSON format.
-    callback(200,{'reply': 'Hi!!!'});
+    callback(200,{'reply': 'Hi and welcome!!! :) '});
 };
 
 // Not found handler
