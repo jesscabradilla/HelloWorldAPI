@@ -1,4 +1,4 @@
 # HelloWorldAPI
-  No third-party modules nor libraries. Just Node.JS and built-in libraries.
+  No third-party modules nor libraries. Just Node.js and its built-in libraries.
   
   Routes /hello and returns a message in JSON format.
