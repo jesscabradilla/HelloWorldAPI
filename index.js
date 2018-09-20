@@ -1,6 +1,3 @@
-//
-// Primary file for the API
-//
 'use strict';
 
 // Dependencies
