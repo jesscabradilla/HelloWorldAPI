@@ -1,4 +1,4 @@
-# A RESTFul API - Hello - POC
+# A RESTFul API
 
   No third-party modules nor libraries. Just Node.js and its built-in libraries.
   
